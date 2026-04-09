@@ -7,7 +7,7 @@ import p1 from "../assets/images/p1.jpg"
         SHOP OUR NEWEST COLLECTIONS</h1>
       <div className="flex gap-3.5">
         <button className="text-white pb-40  ">SHOP NOW </button>
-        <button className="text-white pb-40 "> EXPLORE</button>
+        <button className="text-white pb-45 "> EXPLORE</button>
       </div>
   
     </div>
